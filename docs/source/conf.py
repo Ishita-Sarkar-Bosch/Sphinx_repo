@@ -11,9 +11,9 @@ import sys
 SOURCE_DIR = os.path.abspath(os.path.join('.', '..', 'src'))
 sys.path.insert(0, SOURCE_DIR)
 
-project = 'SphinxTryout'
-copyright = '2023, Blesson'
-author = 'Blesson'
+project = 'SphinxFinalTryout'
+copyright = '2023, Ishita'
+author = 'Ishita'
 release = 'PST'
 
 
